@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/seliana/Desktop/sel/dev/typescript-generics-workshop/src/02-passing-type-arguments/11-data-fetcher.problem.ts"
+    "/Users/seliana/Desktop/sel/dev/typescript-generics-workshop/src/04-generics-advanced/20-spotting-useless-generics.problem.ts"
   ]
 }
