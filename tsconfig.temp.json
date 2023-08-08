@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/seliana/Desktop/sel/dev/typescript-generics-workshop/src/04-generics-advanced/20-spotting-useless-generics.problem.ts"
+    "/Users/seliana/Desktop/sel/dev/typescript-generics-workshop/src/06-challenges/30-form-validator.problem.ts"
   ]
 }
